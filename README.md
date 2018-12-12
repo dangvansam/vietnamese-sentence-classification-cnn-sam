@@ -1,4 +1,3 @@
-# vietnamese-sentence-classification-cnn-sam
 Vietnamese Sentence Classification CNN sam
 #Project: Vietnamese Sentence Classification CNN
 Input: Thư mục ./data/raw/Train_Full
