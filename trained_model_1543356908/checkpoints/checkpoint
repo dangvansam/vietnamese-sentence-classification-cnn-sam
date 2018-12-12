@@ -1,0 +1,6 @@
+model_checkpoint_path: "c:\\vietnamese-sentence-classification-cnn-sam\\trained_model_1543356908\\checkpoints\\model-1000"
+all_model_checkpoint_paths: "c:\\vietnamese-sentence-classification-cnn-sam\\trained_model_1543356908\\checkpoints\\model-960"
+all_model_checkpoint_paths: "c:\\vietnamese-sentence-classification-cnn-sam\\trained_model_1543356908\\checkpoints\\model-970"
+all_model_checkpoint_paths: "c:\\vietnamese-sentence-classification-cnn-sam\\trained_model_1543356908\\checkpoints\\model-980"
+all_model_checkpoint_paths: "c:\\vietnamese-sentence-classification-cnn-sam\\trained_model_1543356908\\checkpoints\\model-990"
+all_model_checkpoint_paths: "c:\\vietnamese-sentence-classification-cnn-sam\\trained_model_1543356908\\checkpoints\\model-1000"
