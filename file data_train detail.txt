@@ -1,0 +1,9 @@
+﻿file đã xử lý dữ liệu từ 8 classes:
+- Am nhac: 900 file txt về âm nhạc
+- Am thuc: 256 file txt về ẩm thực
+- Chinh tri xa hoi: 5219 file txt chứa câu về CTXH
+- Khoa hoc: 1820 file txt về khoa học
+- Kinh doanh: 2552 file txt về kinh daonh
+- Suc khoe: 3384 file txt về sức khỏe
+- The thao: 5298 file txt về thể thao
+- Van hoa: 3080 file txt về văn hóa
